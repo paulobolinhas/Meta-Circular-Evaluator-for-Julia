@@ -1,2 +1,2 @@
 # PAVA
-Meta-Circular Evaluator in Julia
+Meta-Circular Evaluator in Julia.
